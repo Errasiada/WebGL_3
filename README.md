@@ -13,6 +13,6 @@ This practice implements a second shader to the proyect applying a shadow color 
 
 ![WEBGL33](https://user-images.githubusercontent.com/114673717/208488100-ff8b032d-8afd-4d99-a66d-2e2e980a35a5.png)
 
-Final result
+Final result, shadows added to the plane and the cubes.
 
 ![WEBGL41](https://user-images.githubusercontent.com/114673717/208488127-04701f9d-96be-457f-b9af-e7cab3f7f35a.png)
